@@ -36,6 +36,7 @@ def igreja():
     print(f"                   `--._     |__       |   _  |   | |`- |  |___ |        ") 
     print(f"                        `--._|_________|_     | _ |  `- |_ |____|        ")
     print(f"                               LG        '--._|___|     |__|             ") 
+    print ( " " )
 def funcaux():
     print("vish")
 def boss_ambientacao():
